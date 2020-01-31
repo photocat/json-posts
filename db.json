@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "type": "actu web",
+            "type": "actu",
             "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
             "date": "10 janvier 2020",
             "body": "Accusam gubergren at sadipscing voluptua aliquyam invidunt et. Nonumy amet gubergren et eos amet dolor sed, ipsum ipsum ipsum est et nonumy eos ut, et sadipscing labore at et. Sea.",
@@ -19,7 +19,7 @@
     ],
     "pêche": [{
         "id": 3,
-        "type": "actu web",
+        "type": "actu",
         "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
         "date": "11 janvier 2020",
         "body": "Accusam gubergren at sadipscing voluptua aliquyam invidunt et. Nonumy amet gubergren et eos amet dolor sed, ipsum ipsum ipsum est et nonumy eos ut, et sadipscing labore at et. Sea.",
