@@ -1,6 +1,7 @@
 {
     "agriculture": [
         {
+            "id": 1,
             "type": "communiqué",
             "title": "Améliorer l'identification des requins et des raies dans le Pacifique occidental et central",
             "date": "9 janvier 2020",
@@ -8,6 +9,7 @@
             "image": "https://via.placeholder.com/600x300"
         },
         {
+            "id": 2,
             "type": "actu web",
             "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
             "date": "10 janvier 2020",
@@ -16,6 +18,7 @@
         }
     ],
     "pêche": [{
+        "id": 3,
         "type": "actu web",
         "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
         "date": "11 janvier 2020",
@@ -23,6 +26,7 @@
         "image": "https://via.placeholder.com/600x300"
     }],
     "eau": [{
+        "id": 4,
         "type": "vidéo",
         "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
         "date": "13 janvier 2020",
@@ -30,6 +34,7 @@
         "image": "https://via.placeholder.com/600x300"
     }],
     "espèces envahissantes": [{
+        "id": 5,
         "type": "communiqué",
         "title": "Plan de lutte contre les rongeurs envahissants en Polynésie",
         "date": "18 janvier 2020",
