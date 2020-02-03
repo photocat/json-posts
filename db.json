@@ -2,6 +2,7 @@
     "agriculture": [
         {
             "id": 1,
+            "theme": "Agriculture et foresterie",
             "type": "communiqué",
             "title": "Améliorer l'identification des requins et des raies dans le Pacifique occidental et central",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -11,6 +12,7 @@
         },
         {
             "id": 2,
+            "theme": "Agriculture et foresterie",
             "type": "actu",
             "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -20,6 +22,7 @@
         },
         {
             "id": 6,
+            "theme": "Agriculture et foresterie",
             "type": "vidéo",
             "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -29,6 +32,7 @@
         },
         {
             "id": 7,
+            "theme": "Agriculture et foresterie",
             "type": "actu",
             "title": "Comment protéger la région Pacifique des maladies animales",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -40,6 +44,7 @@
     "pêche": [
         {
             "id": 3,
+            "theme": "Pêche côtière et aquaculture",
             "type": "actu",
             "title": "Les mouvements de la houle sous surveillance",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -49,6 +54,7 @@
         },
         {
             "id": 8,
+            "theme": "Pêche côtière et aquaculture",
             "type": "communiqué",
             "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
             "sub-title": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -58,6 +64,7 @@
         },
         {
             "id": 9,
+            "theme": "Pêche côtière et aquaculture",
             "type": "communiqué",
             "title": "Plan de lutte contre les rongeurs envahissants en Polynésie",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -69,6 +76,7 @@
     "eau": [
         {
             "id": 4,
+            "theme": "Eau",
             "type": "vidéo",
             "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -78,6 +86,7 @@
         },
         {
             "id": 10,
+            "theme": "Eau",
             "type": "communiqué",
             "title": "Plan de lutte contre les rongeurs envahissants en Polynésie",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -87,6 +96,7 @@
         },
         {
             "id": 11,
+            "theme": "Eau",
             "type": "actu",
             "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -98,6 +108,7 @@
     "espèces": [
         {
             "id": 5,
+            "theme": "Espèces envahissantes",
             "type": "communiqué",
             "title": "Plan de lutte contre les rongeurs envahissants en Polynésie",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -107,6 +118,7 @@
         },
         {
             "id": 12,
+            "theme": "Espèces envahissantes",
             "type": "actu",
             "title": "Comment protéger la région Pacifique des maladies animales transfrontalières",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -116,6 +128,7 @@
         },
         {
             "id": 13,
+            "theme": "Espèces envahissantes",
             "type": "vidéo",
             "title": "Les pays micronésiens adoptent une stratégie commerciale pour l'aquaculture",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
@@ -125,6 +138,7 @@
         },
         {
             "id": 14,
+            "theme": "Espèces envahissantes",
             "type": "actu",
             "title": "Améliorer l'identification des requins et des raies dans le Pacifique occidental et central",
             "subtitle": "A new program of identification of fisheries has just been developed in the western and central Pacific.",
